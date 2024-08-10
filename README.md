@@ -28,7 +28,7 @@ pip install -r requirements.txt
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/invoice-extraction-app.git
+   git clone https://github.com/MITTALBHAVYA/swipeinterntask
    cd invoice-extraction-app
    ```
 
@@ -84,9 +84,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or issues, please reach out to:
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Author**: Bhavya Mittal
+- **Email**: bhavya12mittal@gmail.com
+- **GitHub**: [yourusername](https://github.com/MITTALBHAVYA/swipeinterntask)
 
 ## Acknowledgments
 

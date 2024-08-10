@@ -1,0 +1,72 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Streamlit
+.streamlit/
+*.streamlit/
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+*.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Log files
+*.log
+
+# Build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Miscellaneous
+*.DS_Store
+*.egg
+*.eggs
+*.pyproj
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+Pipfile.lock
+poetry.lock
+*.lock
+
+# Python test and coverage reports
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.hypothesis/
+*.tox/
+*.nox/
+*.coverage
+*.coverage.*
+*.cache
+*.pytest_cache/
+
+# Other
+*.tmp
+*.temp

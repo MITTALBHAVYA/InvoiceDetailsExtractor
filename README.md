@@ -28,7 +28,7 @@ pip install -r requirements.txt
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/MITTALBHAVYA/swipeinterntask
+   git clone https://github.com/MITTALBHAVYA/InvoiceDetailsExtractor
    cd invoice-extraction-app
    ```
 
@@ -86,7 +86,7 @@ For any questions or issues, please reach out to:
 
 - **Author**: Bhavya Mittal
 - **Email**: bhavya12mittal@gmail.com
-- **GitHub**: [yourusername](https://github.com/MITTALBHAVYA/swipeinterntask)
+- **GitHub**: [INVOICE_DETAILS_EXTRACTOR](https://github.com/MITTALBHAVYA/InvoiceDetailsExtractor)
 
 ## Acknowledgments
 

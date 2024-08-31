@@ -106,5 +106,3 @@ For any questions or issues, please reach out to:
 
 Feel free to adjust the contact details and any other specifics according to your project and preferences!
 ![alt text](workflow.jpg)
-</br>
-![alt text](front.png)

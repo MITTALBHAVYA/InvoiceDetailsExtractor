@@ -56,7 +56,8 @@ def extract_invoice_details(content, from_image=False):
         )
         
         response = model.generate_content([content, prompt])
-        return response.text
+        raw_text = response.text.strip("`json").strip("`")
+        return raw_text
     
     except Exception as e:
         st.error(f"An error occurred while extracting details: {e}")
